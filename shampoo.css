@@ -1,0 +1,20 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    }
+    .t{
+    font-weight: 100;
+    font-size: x-large;
+    color: black;
+    letter-spacing: .5px;
+    }
+    .b{
+    background-color: brown;
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: larger;
+    color: white;
+    }
